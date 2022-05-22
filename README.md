@@ -6,7 +6,7 @@
 
 取材自以下資源
 --------
-BabySortingToyGame           
+DiscoverRandomQuotes           
 https://github.com/FranicevicNikola/DiscoverRandomQuotes                                                                                                                     
                                                                                                                                                                        
 預覽
