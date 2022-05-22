@@ -1,0 +1,30 @@
+// MARK: - Screenshots
+"s.text" = "I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.";
+"s.author" = "Ken Venturi";
+"s.genre" = "motivation";
+// MARK: - Default
+"d.text" = "Tap here or shake your device to generate a random quote";
+"d.author" = "Nikola Franičević";
+"d.genre" = "help";
+// MARK: - In-App Purchase
+"buy.header" = "Save all the quotes you want.";
+"buy.restore" = "Restore Purchase";
+// MARK: - Saved
+
+// MARK: - Onboarding
+"onboarding.1" = "Whether you are going through difficult times or sharing inspirational quotes with your friends, Quotes has you covered.";
+"onboarding.2" = "Reminders are a fun way to learn new stuff. The most important thing is that you are learning every day.";
+"onboarding.3" = "Read favorite quotes on your home screen now, featuring widget support.";
+"onboarding.4" = "Shake to Undo - Accidentally deleted a quote? Shake the device to undo the deletion! \
+
+Shake to Generate - Tap on the quote or shake your device to generate a random quote!";
+"onboarding.5" = "Premium features made for the best app experience. Choose what you want from the store now!";
+// MARK: - Settings
+
+// MARK: - Quotes
+
+// MARK: - Notifications
+
+
+
+
